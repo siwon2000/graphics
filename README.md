@@ -13,3 +13,4 @@
 -------------------------------
 #### 예상 결과물
 ![image](https://user-images.githubusercontent.com/74445253/170393128-d49d9490-261f-46fa-ac20-a7ea69d05aae.png)
+![image]([https://user-images.githubusercontent.com/74445253/170393128-d49d9490-261f-46fa-ac20-a7ea69d05aae.png](https://github.com/siwon2000/graphics/blob/main/1.PNG?raw=true))
