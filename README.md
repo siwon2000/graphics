@@ -14,6 +14,8 @@
 #### 현재 결과물
 ![image](https://user-images.githubusercontent.com/74445253/170393128-d49d9490-261f-46fa-ac20-a7ea69d05aae.png)
 #### 위 사진에서 보는것과 같이 사물을 인식하지 못하는 경우도 있고 종류를 제대로 구분하지 못한다.
+![image](https://github.com/siwon2000/graphics/blob/main/2.PNG)
+#### 첫번째 사진에 비해서 사물인식 능력이나 정확도가 향상되었다.
 -------------------------------
 #### 예상 결과물
 #### 테스트중
